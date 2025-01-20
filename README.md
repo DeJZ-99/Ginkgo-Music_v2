@@ -2,9 +2,12 @@
 >采用<b>`Electron + TypeScript + Vite`</b>框架构建</br>
 
 ## 编写语言
-* <b>`VUE3`</b></br>
+* <b>`VUE`</b></br>
 * <b>`TypeScript`</b></br>
+* <b>`HTML`</b></br>
+* <b>`CSS`</b></br>
 * <b>`LESS`</b></br>
+* <b>`JavaScript`</b></br>
   
 ## 技术栈
 * <b>`pinia`：</b>组件状态、数据共享</br>
