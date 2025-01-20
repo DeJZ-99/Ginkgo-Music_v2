@@ -1,0 +1,149 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1736845396590') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-hotfill:before {
+  content: "\e757";
+}
+
+.icon-cc-close-crude:before {
+  content: "\e62a";
+}
+
+.icon-qq:before {
+  content: "\e66a";
+}
+
+.icon-taiyang_sun61:before {
+  content: "\e61a";
+}
+
+.icon-Refresh_:before {
+  content: "\e621";
+}
+
+.icon-setting:before {
+  content: "\e72c";
+}
+
+.icon-delete:before {
+  content: "\e725";
+}
+
+.icon-download_fill:before {
+  content: "\e7d3";
+}
+
+.icon-16gl-nextFrameCircle:before {
+  content: "\ea1d";
+}
+
+.icon-16gl-playCircle:before {
+  content: "\ea20";
+}
+
+.icon-16gl-previousFrameCircle:before {
+  content: "\ea25";
+}
+
+.icon-16gl-stopCircle:before {
+  content: "\ea2a";
+}
+
+.icon-dingwei:before {
+  content: "\e629";
+}
+
+.icon-backups:before {
+  content: "\e60a";
+}
+
+.icon-github:before {
+  content: "\ea0b";
+}
+
+.icon-backTop:before {
+  content: "\e708";
+}
+
+.icon-moon_stars_fill:before {
+  content: "\e866";
+}
+
+.icon-Soundshengyin10:before {
+  content: "\e6f5";
+}
+
+.icon-Soundshengyin13:before {
+  content: "\e6f6";
+}
+
+.icon-zuocedaohangtubiao-ruyuanpinggu:before {
+  content: "\e67a";
+}
+
+.icon-Delete:before {
+  content: "\e623";
+}
+
+.icon-S_rollback_fill:before {
+  content: "\e6c3";
+}
+
+.icon-minus:before {
+  content: "\e69b";
+}
+
+.icon-shuyef:before {
+  content: "\e600";
+}
+
+.icon-add:before {
+  content: "\e61f";
+}
+
+.icon-download:before {
+  content: "\e61d";
+}
+
+.icon-a-xunhuanbofangduomeitiyinle:before {
+  content: "\e65b";
+}
+
+.icon-a-LoveSearch:before {
+  content: "\eb0e";
+}
+
+.icon-Ranking:before {
+  content: "\ece2";
+}
+
+.icon-subtract-square--subtract-buttons-remove-add-butto:before {
+  content: "\e750";
+}
+
+.icon-ic_lyric:before {
+  content: "\e7d4";
+}
+
+.icon-xunhuanbofang-deng:before {
+  content: "\e602";
+}
+
+.icon-yinbo:before {
+  content: "\e662";
+}
+
+.icon-ic_picture_line:before {
+  content: "\e613";
+}
+
