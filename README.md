@@ -31,25 +31,19 @@
 * **`node@20.15.0`**</br>
 * **`npm@10.7.0`**</br>
 
-## 运行使用
-><b>在项目跟目录打开终端运行以下命令</b>
-* <b>安装依赖：`npm install`</b></br>
-* <b>项目运行：`npm start`</b></br>
-* <b>项目打包：`npm run build`</b></br>
-
-### Install
+### 安装依赖：Install
 
 ```bash
 $ npm install
 ```
 
-### Development
+### 项目运行：Development
 
 ```bash
 $ npm run dev
 ```
 
-### Build
+### 项目打包：Build
 
 ```bash
 # For windows
